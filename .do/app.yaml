@@ -1,6 +1,6 @@
-name: sample-golang
+name: owncast-do-app
 services:
 - name: web
   github:
-    repo: digitalocean/sample-golang
+    repo: apardue/owncast-do-app=test
     branch: main

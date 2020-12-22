@@ -1,7 +1,7 @@
 spec:
-  name: sample-golang
+  name: owncast-do-app
   services:
   - name: web
     git:
       branch: main
-      repo_clone_url: https://github.com/digitalocean/sample-golang.git
+      repo_clone_url: https://github.com/apardue/owncast-do-app-test.git
